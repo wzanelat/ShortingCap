@@ -1,0 +1,2 @@
+# ShortingCap
+Versão 01
